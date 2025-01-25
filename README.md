@@ -1,0 +1,1 @@
+My Flask-based web application calculates a stock’s intrinsic value and visualizes the prices yearly. Users input a stock ticker, and the app retrieves historical stock prices using the yfinance library while scraping EPS data from Macrotrends with requests and BeautifulSoup. 
